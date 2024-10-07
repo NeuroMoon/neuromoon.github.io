@@ -11,12 +11,12 @@ subtitle: My publications and links to papers
 
 ### Peer-reviewed journal
 
-<p>**A key role of orientation in the coding of visual motion direction**
+**A key role of orientation in the coding of visual motion direction**
 <br>Jongmin Moon, Duje Tadin* & Oh-Sang Kwon* (2023)
 <br><i>Psychonomic Bulletin & Review</i> 30:564–574  [Link](https://link.springer.com/article/10.3758/s13423-022-02181-2)
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.3758/s13423-022-02181-2" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="10.3758/s13423-022-02181-2" data-style="small_circle" style="display: inline-block;"></span></p>
+<span class="__dimensions_badge_embed__" data-doi="10.3758/s13423-022-02181-2" data-style="small_circle" style="display: inline-block;"></span>
 
 **Attractive and repulsive effects of sensory history concurrently shape visual perception**
 <br>Jongmin Moon & Oh-Sang Kwon (2022)
