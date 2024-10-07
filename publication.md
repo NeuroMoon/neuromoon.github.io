@@ -47,7 +47,8 @@ subtitle: My publications and links to papers
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-40281-7" data-legend="hover-right" data-style="small_circle" style="display: inline-block;"></span>
 </div>
 
-<h2><span style="color: #0055A9;">Peer-reviewed journal</span></h2>
+<br>
+<h2><span style="color: #0055A9;">Conference presentations</span></h2>
 
 <p><span style="font-size: 16px !important; color: #555;">
   Probing bidirectional serial dependence in an N-back orientation estimation task
