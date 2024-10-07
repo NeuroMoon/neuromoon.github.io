@@ -13,20 +13,20 @@ subtitle: My publications and links to papers
 
 ### Peer-reviewed journal
 
-<p>**A key role of orientation in the coding of visual motion direction**
+<p><b>A key role of orientation in the coding of visual motion direction</b>
 <br>Jongmin Moon, Duje Tadin* & Oh-Sang Kwon* (2023)
-<br>*Psychonomic Bulletin & Review* 30:564–574 <a href="https://link.springer.com/article/10.3758/s13423-022-02181-2">Link</a></p>
+<br><i>Psychonomic Bulletin & Review</i> 30:564–574 <a href="https://link.springer.com/article/10.3758/s13423-022-02181-2">Link</a></p>
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.3758/s13423-022-02181-2" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.3758/s13423-022-02181-2" data-legend="hover-bottom" data-style="small_circle"></span>
 
-**Attractive and repulsive effects of sensory history concurrently shape visual perception**
+<p><b>Attractive and repulsive effects of sensory history concurrently shape visual perception</b>
 <br>Jongmin Moon & Oh-Sang Kwon (2022)
-<br>*BMC Biology* 20:247  [Link](https://link.springer.com/article/10.1186/s12915-022-01444-7)
+<br><i>BMC Biology</i> 20:247 <a href="https://link.springer.com/article/10.1186/s12915-022-01444-7">Link</a></p>
 
-**Temporal dynamics of visual attention allocation**
+<p><b>Temporal dynamics of visual attention allocation</b>
 <br>Jongmin Moon<sup>#</sup>, Seunggyu Choe<sup>#</sup>, Seul Lee & Oh-Sang Kwon (2022)
-<br>*Scientific Reports* 9:3664  [Link](https://www.nature.com/articles/s41598-019-40281-7)
+<br><i>Scientific Reports</i> 9:3664 <a href="https://www.nature.com/articles/s41598-019-40281-7">Link</a></p>
 
 
 ### Conference presentations
