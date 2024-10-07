@@ -16,7 +16,7 @@ subtitle: My publications and links to papers
 <p><span style="font-size: 16px !important; color: #555;">
   <b>A key role of orientation in the coding of visual motion direction</b>
   <br>Jongmin Moon, Duje Tadin* & Oh-Sang Kwon* (2023)
-  <br><i>Psychonomic Bulletin & Review</i>&ensp;<a href="https://link.springer.com/article/10.3758/s13423-022-02181-2">Link</a>
+  <br><i>Psychonomic Bulletin & Review</i>&ensp;<a href="https://link.springer.com/article/10.3758/s13423-022-02181-2">Link</a> | <a href="/pdfs/Moon_2023_PB&R".pdf">PDF</a>
 </span></p>
   
 <div style="display: inline-block;">
@@ -47,7 +47,6 @@ subtitle: My publications and links to papers
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-40281-7" data-legend="hover-right" data-style="small_circle" style="display: inline-block;"></span>
 </div>
 
-<br>
 <h2><span style="color: #0055A9;">Conference presentations</span></h2>
 
 <p><span style="font-size: 16px !important; color: #555;">
