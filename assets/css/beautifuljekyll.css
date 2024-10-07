@@ -47,7 +47,6 @@ body {
 }
 body > main {
   flex: 1;
-  max-width: 80%;
 }
 p {
   line-height: 1.5;
