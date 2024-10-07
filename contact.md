@@ -4,7 +4,7 @@ title: Contact
 subtitle: Feel free to contact me anytime!
 ---
 
-<span style="font-size: 16px !important; color: #555;"><p style="text-align:center;">
+<span style="font-size: 16px !important; color: #555;"><p style="text-align: center;">
   <b>Phone</b> 512-673-0634
   <br><b>Email</b> jmoon@utexas.edu
   </p></span>
