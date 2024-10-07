@@ -52,43 +52,43 @@ subtitle: My publications and links to papers
 <h2><span style="color: #0055A9;">Conference presentations</span></h2>
 
 <p><span style="font-size: 15px !important; color: #555;">
-  Probing bidirectional serial dependence in an N-back orientation estimation task
+  <b>Probing bidirectional serial dependence in an N-back orientation estimation task</b>
   <br>Jongmin Moon, Hoyeon Yoon & Oh-Sang Kwon (2024)
   <br>Vision Sciences Society Annual Meeting&ensp;<a href="https://doi.org/10.1167/jov.24.10.367">Link</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
-  Environmental motion presented ahead of self-motion modulates the heading direction estimation
+  <b>Environmental motion presented ahead of self-motion modulates the heading direction estimation</b>
   <br>Jongmin Moon, Liana Nafisa Saftari & Oh-Sang Kwon (2023)
   <br>Cognitive Computational Neuroscience&ensp;<a href="https://2023.ccneuro.org/view_paper217e.html?PaperNum=1222">Link</a> | <a href="https://2023.ccneuro.org/proceedings/0000386.pdf?s=W&pn=1222">PDF</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
-  Synchronicity of visual and vestibular signals modulates the causal inference in heading direction estimation
+  <b>Synchronicity of visual and vestibular signals modulates the causal inference in heading direction estimation</b>
   <br>Liana Nafisa Saftari, Jongmin Moon & Oh-Sang Kwon (2023)
   <br>Vision Sciences Society Annual Meeting&ensp;<a href="https://doi.org/10.1167/jov.23.9.5227">Link</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
-  Confidence in perceptual estimation reflects behavioral variability, but not biases
+  <b>Confidence in perceptual estimation reflects behavioral variability, but not biases</b>
   <br>Jongmin Moon & Oh-Sang Kwon (2022)
   <br>Vision Sciences Society Annual Meeting&ensp;<a href="https://doi.org/10.1167/jov.22.14.3920">Link</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
-  Motion perception is biased toward the orientation, not the direction, of the preceding motion
+  <b>Motion perception is biased toward the orientation, not the direction, of the preceding motion</b>
   <br>Jongmin Moon & Oh-Sang Kwon (2020)
   <br>Vision Sciences Society Annual Meeting&ensp;<a href="https://doi.org/10.1167/jov.20.11.1762">Link</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
-  Additivity of attractive and repulsive sequential effects in motion direction estimation
+  <b>Additivity of attractive and repulsive sequential effects in motion direction estimation</b>
   <br>Jongmin Moon & Oh-Sang Kwon (2019)
   <br>Vision Sciences Society Annual Meeting&ensp;<a href="https://doi.org/10.1167/19.10.295a">Link</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
-  Temporal Dynamics of Visual Attention Allocation
+  <b>Temporal dynamics of visual attention allocation</b>
   <br>Seonggyu Choe, Jongmin Moon & Oh-Sang Kwon (2018)
   <br>Vision Sciences Society Annual Meeting&ensp;<a href="https://doi.org/10.1167/18.10.1025">Link</a>
 </span></p>
