@@ -17,8 +17,8 @@ subtitle: My publications and links to papers
 <br>Jongmin Moon, Duje Tadin* & Oh-Sang Kwon* (2023)
 <br><i>Psychonomic Bulletin & Review</i> 30:564–574 <a href="https://link.springer.com/article/10.3758/s13423-022-02181-2">Link</a></p>
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.3758/s13423-022-02181-2" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div>
-<span class="__dimensions_badge_embed__" data-doi="10.3758/s13423-022-02181-2" data-legend="hover-bottom" data-style="small_circle"></span>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.3758/s13423-022-02181-2" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.3758/s13423-022-02181-2" data-legend="hover-right" data-style="small_circle"></span>
 
 <p><b>Attractive and repulsive effects of sensory history concurrently shape visual perception</b>
 <br>Jongmin Moon & Oh-Sang Kwon (2022)
