@@ -16,7 +16,7 @@ subtitle: My publications and links to papers
 <p><span style="font-size: 16px !important; color: #555;">
   <b>A key role of orientation in the coding of visual motion direction</b>
   <br>Jongmin Moon, Duje Tadin* & Oh-Sang Kwon* (2023)
-  <br><i>Psychonomic Bulletin & Review</i>&ensp;<a href="https://link.springer.com/article/10.3758/s13423-022-02181-2">Link</a> | <a href="/pdfs/Moon_2023_PB&R".pdf">PDF</a>
+  <br><i>Psychonomic Bulletin & Review</i>&ensp;<a href="https://link.springer.com/article/10.3758/s13423-022-02181-2">Link</a> | <a href="/pdfs/Moon_2023_PBR.pdf">PDF</a>
 </span></p>
   
 <div style="display: inline-block;">
@@ -27,7 +27,8 @@ subtitle: My publications and links to papers
 <p><span style="font-size: 16px !important; color: #555;">
   <b>Attractive and repulsive effects of sensory history concurrently shape visual perception</b>
   <br>Jongmin Moon & Oh-Sang Kwon (2022)
-  <br><i>BMC Biology</i>&ensp;<a href="https://link.springer.com/article/10.1186/s12915-022-01444-7">Link</a>
+  <br><i>BMC Biology</i>&ensp;<a href="https://link.springer.com/article/10.1186/s12915-022-01444-7">Link</a> | <a href="/pdfs/Moon_2022_BMCBiol.pdf">PDF</a>
+  <br>Press (selected): <a href="https://news.unist.ac.kr/kor/20221122-2/">UNIST</a> | <a href="https://donga.com/news/Society/article/all/20221121/116596416/1">동아일보</a> | <a href="https://www.hankookilbo.com/News/Read/A2022112114390004329?did=NA">한국일보</a> | <a href="https://www.dongascience.com/news.php?idx=57198">동아사이언스</a> | <a href="http://www.astronomer.rocks/news/articleView.html?idxno=90462">이웃집과학자</a>
 </span></p>
 
 <div style="display: inline-block;">
@@ -39,7 +40,7 @@ subtitle: My publications and links to papers
 <p><span style="font-size: 16px !important; color: #555;">
   <b>Temporal dynamics of visual attention allocation</b>
   <br>Jongmin Moon<sup>#</sup>, Seunggyu Choe<sup>#</sup>, Seul Lee & Oh-Sang Kwon (2022)
-  <br><i>Scientific Reports</i>&ensp;<a href="https://www.nature.com/articles/s41598-019-40281-7">Link</a>
+  <br><i>Scientific Reports</i>&ensp;<a href="https://www.nature.com/articles/s41598-019-40281-7">Link</a> | <a href="/pdfs/Moon_2019_SciRep.pdf">PDF</a>
 </span></p>
 
 <div style="display: inline-block;">
