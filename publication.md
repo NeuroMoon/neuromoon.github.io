@@ -3,6 +3,8 @@ layout: page
 title: Publication
 subtitle: My publications and links to papers
 ---
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <span style="font-size: 14px !important; color: #555;">
 <sup>#</sup> co-first author
@@ -15,8 +17,8 @@ subtitle: My publications and links to papers
 <br>Jongmin Moon, Duje Tadin* & Oh-Sang Kwon* (2023)
 <br>*Psychonomic Bulletin & Review* 30:564–574  [Link](https://link.springer.com/article/10.3758/s13423-022-02181-2)
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.3758/s13423-022-02181-2" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="10.3758/s13423-022-02181-2" data-legend="hover-bottom" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.3758/s13423-022-02181-2" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.3758/s13423-022-02181-2" data-legend="hover-bottom" data-style="small_circle"></span>
 
 **Attractive and repulsive effects of sensory history concurrently shape visual perception**
 <br>Jongmin Moon & Oh-Sang Kwon (2022)
