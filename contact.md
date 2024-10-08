@@ -4,15 +4,15 @@ title: Contact
 subtitle: Feel free to contact me anytime!
 ---
 
-<h3>Jongmin Moon</h3>
+<span style="font-size: 20px !important; color: #555;"><b>Jongmin Moon</b></span>
 <span style="font-size: 16px !important; color: #555;">
-Postdoctoral Fellow
+<br>Postdoctoral Fellow
 <br><a href="https://liberalarts.utexas.edu/cps">Center for Perceptual Systems</a>
 <br><a href="https://www.utexas.edu">The University of Texas at Austin</a>
 </span>
 <br/><br/>
 <span style="font-size: 16px !important; color: #555;">
-  <b>Mail</b> Office 5.542, Sarah M. and Charles E. Seay Building, 108 E Dean Keeton St, Austin, TX 78712
+  <b>Mail</b> Office 5.542, 108 E Dean Keeton St, Austin, TX 78712
   <br><b>Email</b> jmoon@utexas.edu
   <br><b>Phone</b> 512-673-0634
 </span>
