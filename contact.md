@@ -4,7 +4,7 @@ title: Contact
 subtitle: Feel free to contact me anytime!
 ---
 
-<span style="font-size: 20px !important; color: #555;"><b>Jongmin Moon</b></span>
+<span style="font-size: 25px !important; color: #555;"><b>Jongmin Moon</b></span>
 <span style="font-size: 16px !important; color: #555;">
 <br>Postdoctoral Fellow
 <br><a href="https://liberalarts.utexas.edu/cps">Center for Perceptual Systems</a>
