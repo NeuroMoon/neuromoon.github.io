@@ -11,7 +11,7 @@ subtitle: My publications and links to papers
 <br>* co-senior author
 </span>
 
-<h2><span style="color: #0055A9;">Peer-reviewed journal</span></h2>
+<h2><span style="color: #0055A9;">Peer-reviewed journal articles</span></h2>
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>A key role of orientation in the coding of visual motion direction</b>
@@ -49,7 +49,13 @@ subtitle: My publications and links to papers
 </div>
 
 <br>
-<h2><span style="color: #0055A9;">Conference presentations</span></h2>
+<h2><span style="color: #0055A9;">Conference abstracts</span></h2>
+
+<p><span style="font-size: 15px !important; color: #555;">
+  <b>Attractive serial dependence occurs after motion repulsion</b>
+  <br>Hoyeon Yoon, Jongmin Moon & Oh-Sang Kwon (2025)
+  <br>Vision Sciences Society Annual Meeting
+</span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Probing bidirectional serial dependence in an N-back orientation estimation task</b>
