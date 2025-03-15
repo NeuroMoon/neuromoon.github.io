@@ -28,7 +28,7 @@ subtitle: My publications and links to papers
   <b>Attractive and repulsive effects of sensory history concurrently shape visual perception</b>
   <br>Jongmin Moon & Oh-Sang Kwon (2022)
   <br><i>BMC Biology</i>&ensp;<a href="https://link.springer.com/article/10.1186/s12915-022-01444-7">Link</a> | <a href="/pdfs/Moon_2022_BMCBiol.pdf">PDF</a>
-  <br>Press (selected): <a href="https://news.unist.ac.kr/kor/20221122-2/">UNIST</a> | <a href="https://donga.com/news/Society/article/all/20221121/116596416/1">동아일보</a> | <a href="https://www.hankookilbo.com/News/Read/A2022112114390004329?did=NA">한국일보</a> | <a href="https://www.dongascience.com/news.php?idx=57198">동아사이언스</a> | <a href="http://www.astronomer.rocks/news/articleView.html?idxno=90462">이웃집과학자</a>
+  <br>Press (selected): <a href="https://news.unist.ac.kr/kor/20221122-2/">UNIST</a> | <a href="https://donga.com/news/Society/article/all/20221121/116596416/1">동아일보</a> | <a href="https://www.hankookilbo.com/News/Read/A2022112114390004329?did=NA">한국일보</a> | <a href="https://www.dongascience.com/news.php?idx=57198">동아사이언스</a>
 </span></p>
 
 <div style="display: inline-block;">
