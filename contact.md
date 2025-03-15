@@ -18,7 +18,7 @@ subtitle: Feel free to contact me anytime!
 </span>
 <br/><br/>
 <span style="font-size: 16px !important; color: #555;">
-You can also find links to my email, X, LinkedIn, ORCID and Google Scholar at the bottom of this website!
+You can also find links to my X, LinkedIn, ORCID and Google Scholar at the bottom of this website!
 </span>
 
 <div style="display: flex; justify-content: center;">
