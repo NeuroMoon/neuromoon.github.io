@@ -39,7 +39,7 @@ subtitle: My publications and links to papers
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Temporal dynamics of visual attention allocation</b>
-  <br>Jongmin Moon<sup>#</sup>, Seunggyu Choe<sup>#</sup>, Seul Lee & Oh-Sang Kwon (2022)
+  <br>Jongmin Moon<sup>#</sup>, Seunggyu Choe<sup>#</sup>, Seul Lee & Oh-Sang Kwon (2019)
   <br><i>Scientific Reports</i>&ensp;<a href="https://www.nature.com/articles/s41598-019-40281-7">Link</a> | <a href="/pdfs/Moon_2019_SciRep.pdf">PDF</a>
 </span></p>
 
@@ -54,7 +54,7 @@ subtitle: My publications and links to papers
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Attractive serial dependence occurs after motion repulsion</b>
   <br>Hoyeon Yoon, Jongmin Moon & Oh-Sang Kwon (2025)
-  <br>Vision Sciences Society Annual Meeting
+  <br>Vision Sciences Society Annual Meeting&ensp;<a href="https://doi.org/10.1167/jov.25.9.2942">Link</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
