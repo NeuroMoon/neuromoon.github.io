@@ -12,9 +12,8 @@ subtitle: Feel free to contact me anytime!
 </span>
 <br/><br/>
 <span style="font-size: 16px !important; color: #555;">
-  <b>Mail</b> Office 5.542, 108 E Dean Keeton St, Austin, TX 78712
+  <b>Office</b> SEA 5.536, 108 E Dean Keeton St, Austin, TX 78712, United States
   <br><b>Email</b> jmoon@utexas.edu
-  <br><b>Phone</b> 512-673-0634
 </span>
 <br/><br/>
 <span style="font-size: 16px !important; color: #555;">
