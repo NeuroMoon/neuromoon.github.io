@@ -16,7 +16,7 @@ subtitle: My publications and links to papers
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Environmental motion presented ahead of self-motion modulates heading direction estimation</b>
   <br>Liana Nafisa Saftari<sup>#</sup>, Jongmin Moon<sup>#</sup>, Oh-Sang Kwon
-  <br><i>PLOS Computational Biology</i> (2025)&ensp;<a href="https://doi.org/10.1371/journal.pcbi.1013571">Link</a> | <a href="/pdfs/Moon_2025_PLoSComputBiol_Supplementary.pdf">Supplementary</a> | <a href="https://doi.org/10.17605/OSF.IO/RMFE6">Data and Code</a>
+  <br><i>PLOS Computational Biology</i> (2025)&ensp;<a href="https://doi.org/10.1371/journal.pcbi.1013571">Link</a> | <a href="/pdfs/Moon_2025_PLoSComputBiol.pdf">PDF</a> | <a href="/pdfs/Moon_2025_PLoSComputBiol_Supplementary.pdf">Supplementary</a> | <a href="https://doi.org/10.17605/OSF.IO/RMFE6">Data and Code</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
