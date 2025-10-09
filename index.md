@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Jongmin Moon
-subtitle: 
+subtitle: Welcome to my website!
 ---
 
 <span style="font-size: 16px !important;">I am a postdoctoral fellow working with <a href="https://gorislab.github.io">Robbe Goris</a> at the Center for Perceptual Systems at UT Austin. Before joining his lab, I earned my PhD in Biomedical Engineering at Ulsan National Institute of Science and Technology in South Korea, where I worked with <a href="https://pal.unist.ac.kr">Oh-Sang Kwon</a>.</span>
