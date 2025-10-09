@@ -16,13 +16,13 @@ subtitle: My publications and links to papers
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Environmental motion presented ahead of self-motion modulates heading direction estimation</b>
   <br>Liana Nafisa Saftari<sup>#</sup>, Jongmin Moon<sup>#</sup>, Oh-Sang Kwon
-  <br><i>PLOS Computational Biology</i> (2025)&emsp;<a href="https://doi.org/10.1371/journal.pcbi.1013571">Link</a> | <a href="/pdfs/Moon_2025_PLoSComputBiol_Supplementary.pdf">Supplementary</a> | <a href="https://doi.org/10.17605/OSF.IO/RMFE6">Data and Code</a>
+  <br><i>PLOS Computational Biology</i> (2025)&ensp;<a href="https://doi.org/10.1371/journal.pcbi.1013571">Link</a> | <a href="/pdfs/Moon_2025_PLoSComputBiol_Supplementary.pdf">Supplementary</a> | <a href="https://doi.org/10.17605/OSF.IO/RMFE6">Data and Code</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>A key role of orientation in the coding of visual motion direction</b>
   <br>Jongmin Moon, Duje Tadin*, Oh-Sang Kwon*
-  <br><i>Psychonomic Bulletin & Review</i> (2023)&emsp;<a href="https://link.springer.com/article/10.3758/s13423-022-02181-2">Link</a> | <a href="/pdfs/Moon_2023_PBR.pdf">PDF</a> | <a href="/pdfs/Moon_2023_PBR_Supplementary.pdf">Supplementary</a> | <a href="https://osf.io/m6d4z/">Data and Code</a>
+  <br><i>Psychonomic Bulletin & Review</i> (2023)&ensp;<a href="https://link.springer.com/article/10.3758/s13423-022-02181-2">Link</a> | <a href="/pdfs/Moon_2023_PBR.pdf">PDF</a> | <a href="/pdfs/Moon_2023_PBR_Supplementary.pdf">Supplementary</a> | <a href="https://osf.io/m6d4z/">Data and Code</a>
 </span></p>
   
 <div style="display: inline-block;">
@@ -33,8 +33,8 @@ subtitle: My publications and links to papers
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Attractive and repulsive effects of sensory history concurrently shape visual perception</b>
   <br>Jongmin Moon, Oh-Sang Kwon
-  <br><i>BMC Biology</i> (2022)&emsp;<a href="https://link.springer.com/article/10.1186/s12915-022-01444-7">Link</a> | <a href="/pdfs/Moon_2022_BMCBiol.pdf">PDF</a> | <a href="/pdfs/Moon_2022_BMCBiol_Supplementary.pdf">Supplementary</a> | <a href="https://osf.io/s3cx2/">Data and Code</a>
-  <br>Press (selected): <a href="https://news.unist.ac.kr/kor/20221122-2/">UNIST</a> | <a href="https://donga.com/news/Society/article/all/20221121/116596416/1">동아일보</a> | <a href="https://www.hankookilbo.com/News/Read/A2022112114390004329?did=NA">한국일보</a> | <a href="https://www.dongascience.com/news.php?idx=57198">동아사이언스</a>
+  <br><i>BMC Biology</i> (2022)&ensp;<a href="https://link.springer.com/article/10.1186/s12915-022-01444-7">Link</a> | <a href="/pdfs/Moon_2022_BMCBiol.pdf">PDF</a> | <a href="/pdfs/Moon_2022_BMCBiol_Supplementary.pdf">Supplementary</a> | <a href="https://osf.io/s3cx2/">Data and Code</a>
+  <br>Press (selected):&ensp;<a href="https://news.unist.ac.kr/kor/20221122-2/">UNIST</a> | <a href="https://donga.com/news/Society/article/all/20221121/116596416/1">동아일보</a> | <a href="https://www.hankookilbo.com/News/Read/A2022112114390004329?did=NA">한국일보</a> | <a href="https://www.dongascience.com/news.php?idx=57198">동아사이언스</a>
 </span></p>
 
 <div style="display: inline-block;">
@@ -45,8 +45,8 @@ subtitle: My publications and links to papers
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Temporal dynamics of visual attention allocation</b>
-  <br>Jongmin Moon<sup>#</sup>, Seunggyu Choe<sup>#</sup>, Seul Lee & Oh-Sang Kwon
-  <br><i>Scientific Reports</i> (2019)&emsp;<a href="https://www.nature.com/articles/s41598-019-40281-7">Link</a> | <a href="/pdfs/Moon_2019_SciRep.pdf">PDF</a> | <a href="/pdfs/Moon_2019_SciRep_Supplementary.pdf">Supplementary</a>
+  <br>Jongmin Moon<sup>#</sup>, Seunggyu Choe<sup>#</sup>, Seul Lee, Oh-Sang Kwon
+  <br><i>Scientific Reports</i> (2019)&ensp;<a href="https://www.nature.com/articles/s41598-019-40281-7">Link</a> | <a href="/pdfs/Moon_2019_SciRep.pdf">PDF</a> | <a href="/pdfs/Moon_2019_SciRep_Supplementary.pdf">Supplementary</a>
 </span></p>
 
 <div style="display: inline-block;">
@@ -60,47 +60,47 @@ subtitle: My publications and links to papers
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Attractive serial dependence occurs after motion repulsion</b>
   <br>Hoyeon Yoon, Jongmin Moon, Oh-Sang Kwon
-  <br>Vision Sciences Society (2025)&emsp;<a href="https://doi.org/10.1167/jov.25.9.2942">Link</a>
+  <br>Vision Sciences Society (2025)&ensp;<a href="https://doi.org/10.1167/jov.25.9.2942">Link</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Probing bidirectional serial dependence in an N-back orientation estimation task</b>
   <br>Jongmin Moon, Hoyeon Yoon, Oh-Sang Kwon
-  <br>Vision Sciences Society (2024)&emsp;<a href="https://doi.org/10.1167/jov.24.10.367">Link</a>
+  <br>Vision Sciences Society (2024)&ensp;<a href="https://doi.org/10.1167/jov.24.10.367">Link</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Environmental motion presented ahead of self-motion modulates the heading direction estimation</b>
   <br>Jongmin Moon, Liana Nafisa Saftari, Oh-Sang Kwon
-  <br>Cognitive Computational Neuroscience (2023)&emsp;<a href="https://2023.ccneuro.org/view_paper217e.html?PaperNum=1222">Link</a> | <a href="https://2023.ccneuro.org/proceedings/0000386.pdf?s=W&pn=1222">PDF</a>
+  <br>Cognitive Computational Neuroscience (2023)&ensp;<a href="https://2023.ccneuro.org/view_paper217e.html?PaperNum=1222">Link</a> | <a href="https://2023.ccneuro.org/proceedings/0000386.pdf?s=W&pn=1222">PDF</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Synchronicity of visual and vestibular signals modulates the causal inference in heading direction estimation</b>
   <br>Liana Nafisa Saftari, Jongmin Moon, Oh-Sang Kwon
-  <br>Vision Sciences Society (2023)&emsp;<a href="https://doi.org/10.1167/jov.23.9.5227">Link</a>
+  <br>Vision Sciences Society (2023)&ensp;<a href="https://doi.org/10.1167/jov.23.9.5227">Link</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Confidence in perceptual estimation reflects behavioral variability, but not biases</b>
   <br>Jongmin Moon, Oh-Sang Kwon
-  <br>Vision Sciences Society (2022)&emsp;<a href="https://doi.org/10.1167/jov.22.14.3920">Link</a>
+  <br>Vision Sciences Society (2022)&ensp;<a href="https://doi.org/10.1167/jov.22.14.3920">Link</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Motion perception is biased toward the orientation, not the direction, of the preceding motion</b>
   <br>Jongmin Moon, Oh-Sang Kwon
-  <br>Vision Sciences Society (2020)&emsp;<a href="https://doi.org/10.1167/jov.20.11.1762">Link</a>
+  <br>Vision Sciences Society (2020)&ensp;<a href="https://doi.org/10.1167/jov.20.11.1762">Link</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Additivity of attractive and repulsive sequential effects in motion direction estimation</b>
   <br>Jongmin Moon, Oh-Sang Kwon
-  <br>Vision Sciences Society (2019)&emsp;<a href="https://doi.org/10.1167/19.10.295a">Link</a>
+  <br>Vision Sciences Society (2019)&ensp;<a href="https://doi.org/10.1167/19.10.295a">Link</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Temporal dynamics of visual attention allocation</b>
   <br>Seonggyu Choe, Jongmin Moon, Oh-Sang Kwon
-  <br>Vision Sciences Society (2018)&emsp;<a href="https://doi.org/10.1167/18.10.1025">Link</a>
+  <br>Vision Sciences Society (2018)&ensp;<a href="https://doi.org/10.1167/18.10.1025">Link</a>
 </span></p>
