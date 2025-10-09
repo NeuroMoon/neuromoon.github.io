@@ -14,6 +14,12 @@ subtitle: My publications and links to papers
 <h2><span style="color: #0055A9;">Peer-reviewed journal articles</span></h2>
 
 <p><span style="font-size: 15px !important; color: #555;">
+  <b>Environmental motion presented ahead of self-motion modulates heading direction estimation</b>
+  <br>Liana Nafisa Saftari<sup>#</sup>, Jongmin Moon<sup>#</sup> & Oh-Sang Kwon (2025)
+  <br><i>PLOS Computational Biology</i>&ensp;<a href="https://doi.org/10.1371/journal.pcbi.1013571">Link</a> | <a href="/pdfs/Moon_2025_PLoSComputBiol_Supplementary.pdf">Supplementary</a> | <a href="https://doi.org/10.17605/OSF.IO/RMFE6">Data and Code</a>
+</span></p>
+
+<p><span style="font-size: 15px !important; color: #555;">
   <b>A key role of orientation in the coding of visual motion direction</b>
   <br>Jongmin Moon, Duje Tadin* & Oh-Sang Kwon* (2023)
   <br><i>Psychonomic Bulletin & Review</i>&ensp;<a href="https://link.springer.com/article/10.3758/s13423-022-02181-2">Link</a> | <a href="/pdfs/Moon_2023_PBR.pdf">PDF</a> | <a href="/pdfs/Moon_2023_PBR_Supplementary.pdf">Supplementary</a> | <a href="https://osf.io/m6d4z/">Data and Code</a>
