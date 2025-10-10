@@ -19,6 +19,11 @@ subtitle: My publications and links to papers
   <br><i>PLOS Computational Biology</i> (2025)&ensp;<a href="https://doi.org/10.1371/journal.pcbi.1013571">Link</a> | <a href="/pdfs/Moon_2025_PLoSComputBiol.pdf">PDF</a> | <a href="/pdfs/Moon_2025_PLoSComputBiol_Supplementary.pdf">Supplementary</a> | <a href="https://doi.org/10.17605/OSF.IO/RMFE6">Data and Code</a>
 </span></p>
 
+<div style="display: inline-block;">
+<div data-badge-type="donut" data-doi="10.1371/journal.pcbi.1013571" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1013571" data-legend="hover-right" data-style="small_circle" style="display: inline-block;"></span>
+</div>
+
 <p><span style="font-size: 15px !important; color: #555;">
   <b>A key role of orientation in the coding of visual motion direction</b>
   <br>Jongmin Moon, Duje Tadin*, Oh-Sang Kwon*
