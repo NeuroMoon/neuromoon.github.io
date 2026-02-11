@@ -1,15 +1,10 @@
 ---
 layout: page
 title: Publication
-subtitle: My publications and links to papers
+subtitle:
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-<span style="font-size: 14px !important; color: #555;">
-<sup>#</sup> co-first author
-<br>* co-senior author
-</span>
 
 <h2><span style="color: #0055A9;">Peer-reviewed journal articles</span></h2>
 
@@ -59,8 +54,31 @@ subtitle: My publications and links to papers
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-40281-7" data-legend="hover-right" data-style="small_circle" style="display: inline-block;"></span>
 </div>
 
+<span style="font-size: 14px !important; color: #555;">
+<sup>#</sup> co-first author
+<br>* co-senior author
+</span>
+
 <br>
 <h2><span style="color: #0055A9;">Conference abstracts</span></h2>
+
+<p><span style="font-size: 15px !important; color: #555;">
+  <b>How history manifests in the macaque cortical hierarchy</b>
+  <br>Jongmin Moon, Zoe M. Boundy-Singer, Julie A. Charlton, Robbe L. T. Goris
+  <br>Vision Sciences Society (2026)
+</span></p>
+
+<p><span style="font-size: 15px !important; color: #555;">
+  <b>Confidence in perceptual estimates reveals that sensory noise is doubly stochastic</b>
+  <br>Avinash Ranjan, Jongmin Moon, Robbe L. T. Goris
+  <br>Vision Sciences Society (2026)
+</span></p>
+
+<p><span style="font-size: 15px !important; color: #555;">
+  <b>Perceptual confidence seems blind to prior information</b>
+  <br>Akash Raj Gunniya Prakash, Jongmin Moon, Robbe L. T. Goris
+  <br>Vision Sciences Society (2026)
+</span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Attractive serial dependence occurs after motion repulsion</b>
@@ -70,7 +88,7 @@ subtitle: My publications and links to papers
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Probing bidirectional serial dependence in an N-back orientation estimation task</b>
-  <br>Jongmin Moon, Hoyeon Yoon, Oh-Sang Kwon
+  <br>Jongmin Moon*, Hoyeon Yoon, Oh-Sang Kwon
   <br>Vision Sciences Society (2024)&ensp;<a href="https://doi.org/10.1167/jov.24.10.367">Link</a>
 </span></p>
 
@@ -100,7 +118,7 @@ subtitle: My publications and links to papers
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Additivity of attractive and repulsive sequential effects in motion direction estimation</b>
-  <br>Jongmin Moon, Oh-Sang Kwon
+  <br>Jongmin Moon*, Oh-Sang Kwon
   <br>Vision Sciences Society (2019)&ensp;<a href="https://doi.org/10.1167/19.10.295a">Link</a>
 </span></p>
 
@@ -109,3 +127,7 @@ subtitle: My publications and links to papers
   <br>Seonggyu Choe, Jongmin Moon, Oh-Sang Kwon
   <br>Vision Sciences Society (2018)&ensp;<a href="https://doi.org/10.1167/18.10.1025">Link</a>
 </span></p>
+
+<span style="font-size: 14px !important; color: #555;">
+<br>* conference talk
+</span>
