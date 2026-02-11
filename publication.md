@@ -64,7 +64,7 @@ subtitle:
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>How history manifests in the macaque cortical hierarchy</b>
-  <br>Jongmin Moon, Zoe M. Boundy-Singer, Julie A. Charlton, Robbe L. T. Goris
+  <br>Jongmin Moon*, Zoe M. Boundy-Singer, Julie A. Charlton, Robbe L. T. Goris
   <br>Vision Sciences Society (2026)
 </span></p>
 
