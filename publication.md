@@ -50,7 +50,7 @@ subtitle:
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Temporal dynamics of visual attention allocation</b>
-  <br>Jongmin Moon<sup>#</sup>, Seunggyu Choe<sup>#</sup>, Seul Lee, Oh-Sang Kwon
+  <br>Jongmin Moon<sup>#</sup>, Seonggyu Choe<sup>#</sup>, Seul Lee, Oh-Sang Kwon
   <br><i>Scientific Reports</i> (2019)&ensp;<a href="https://www.nature.com/articles/s41598-019-40281-7">Link</a> | <a href="/pdfs/Moon_2019_SciRep.pdf">PDF</a> | <a href="/pdfs/Moon_2019_SciRep_Supplementary.pdf">Supplementary</a>
 </span></p>
 
