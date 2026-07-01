@@ -19,11 +19,6 @@ subtitle:
   <br><i>Neuron</i> (2026)&ensp;<a href="https://www.cell.com/neuron/fulltext/S0896-6273(26)00453-8">Link</a> | <a href="/pdfs/Moon_2026_Neuron.pdf">PDF</a>
 </span></p>
 
-<div style="display: inline-block;">
-<div data-badge-type="donut" data-doi="10.1016/j.neuron.2026.06.007" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp;
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuron.2026.06.007" data-legend="hover-right" data-style="small_circle" style="display: inline-block;"></span>
-</div>
-
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Environmental motion presented ahead of self-motion modulates heading direction estimation</b>
   <br>Liana Nafisa Saftari<sup>#</sup>, Jongmin Moon<sup>#</sup>, Oh-Sang Kwon
