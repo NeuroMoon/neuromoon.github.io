@@ -11,7 +11,18 @@ subtitle:
 <br>* co-senior author
 </span>
 
-<h2><span style="color: #0055A9;">Peer-reviewed journal articles</span></h2>
+<h2><span style="color: #0055A9;">Journal articles</span></h2>
+
+<p><span style="font-size: 15px !important; color: #555;">
+  <b>Image space opens up for visual neuroscience</b>
+  <br>Jongmin Moon, Robbe L. T. Goris
+  <br><i>Neuron</i> (2026)&ensp;<a href="https://www.cell.com/neuron/fulltext/S0896-6273(26)00453-8">Link</a> | <a href="/pdfs/Moon_2026_Neuron.pdf">PDF</a>
+</span></p>
+
+<div style="display: inline-block;">
+<div data-badge-type="donut" data-doi="10.1016/j.neuron.2026.06.007" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuron.2026.06.007" data-legend="hover-right" data-style="small_circle" style="display: inline-block;"></span>
+</div>
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Environmental motion presented ahead of self-motion modulates heading direction estimation</b>
