@@ -26,8 +26,8 @@ subtitle:
 </span></p>
 
 <div style="display: inline-block;">
-<div data-badge-type="donut" data-doi="10.1371/journal.pcbi.1013571" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block; vertical-align: middle;"></div> &nbsp;
-<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1013571" data-legend="hover-right" data-style="small_circle" style="display: inline-block; vertical-align: middle;"></span>
+<div data-badge-type="donut" data-doi="10.1371/journal.pcbi.1013571" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block; vertical-align: top;"></div> &nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1013571" data-legend="hover-right" data-style="small_circle" style="display: inline-block; vertical-align: top;"></span>
 </div>
 
 <p><span style="font-size: 15px !important; color: #555;">
@@ -37,8 +37,8 @@ subtitle:
 </span></p>
   
 <div style="display: inline-block;">
-<div data-badge-type="donut" data-doi="10.3758/s13423-022-02181-2" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block; vertical-align: middle;"></div> &nbsp;
-<span class="__dimensions_badge_embed__" data-doi="10.3758/s13423-022-02181-2" data-legend="hover-right" data-style="small_circle" style="display: inline-block; vertical-align: middle;"></span>
+<div data-badge-type="donut" data-doi="10.3758/s13423-022-02181-2" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block; vertical-align: top;"></div> &nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.3758/s13423-022-02181-2" data-legend="hover-right" data-style="small_circle" style="display: inline-block; vertical-align: top;"></span>
 </div>
 
 <p><span style="font-size: 15px !important; color: #555;">
@@ -49,9 +49,9 @@ subtitle:
 </span></p>
 
 <div style="display: inline-block;">
-<div data-badge-type="donut" data-doi="110.1186/s12915-022-01444-7" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block; vertical-align: middle;"></div> &nbsp;
-<span class="__dimensions_badge_embed__" data-doi="10.1101/2022.02.24.481765" data-legend="hover-bottom" data-style="small_circle" style="display: inline-block; vertical-align: middle;"></span>&nbsp;
-<span class="__dimensions_badge_embed__" data-doi="10.1186/s12915-022-01444-7" data-legend="hover-right" data-style="small_circle" style="display: inline-block; vertical-align: middle;"></span>
+<div data-badge-type="donut" data-doi="110.1186/s12915-022-01444-7" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block; vertical-align: top;"></div> &nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2022.02.24.481765" data-legend="hover-bottom" data-style="small_circle" style="display: inline-block; vertical-align: top;"></span>&nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.1186/s12915-022-01444-7" data-legend="hover-right" data-style="small_circle" style="display: inline-block; vertical-align: top;"></span>
 </div>
 
 <p><span style="font-size: 15px !important; color: #555;">
@@ -61,8 +61,8 @@ subtitle:
 </span></p>
 
 <div style="display: inline-block;">
-<div data-badge-type="donut" data-doi="10.1038/s41598-019-40281-7" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block; vertical-align: middle;"></div> &nbsp;
-<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-40281-7" data-legend="hover-right" data-style="small_circle" style="display: inline-block; vertical-align: middle;"></span>
+<div data-badge-type="donut" data-doi="10.1038/s41598-019-40281-7" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block; vertical-align: top;"></div> &nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-40281-7" data-legend="hover-right" data-style="small_circle" style="display: inline-block; vertical-align: top;"></span>
 </div>
 
 <br>
