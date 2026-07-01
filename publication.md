@@ -61,7 +61,7 @@ subtitle:
 </span></p>
 
 <div style="display: inline-block;">
-<div data-badge-type="donut" data-doi="10.1038/s41598-019-40281-7" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp;
+<div data-badge-type="donut" data-doi="10.1038/s41598-019-40281-7" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block; vertical-align: middle;"></div> &nbsp;
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-40281-7" data-legend="hover-right" data-style="small_circle" style="display: inline-block; vertical-align: middle;"></span>
 </div>
 
