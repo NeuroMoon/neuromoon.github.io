@@ -5,18 +5,18 @@ subtitle: Feel free to contact me anytime!
 ---
 
 <span style="font-size: 25px !important; color: #555;"><b>Jongmin Moon</b></span>
-<span style="font-size: 16px !important; color: #555;">
+<span style="font-size: 15px !important; color: #555;">
 <br>Postdoctoral Fellow
 <br><a href="https://liberalarts.utexas.edu/cps">Center for Perceptual Systems</a>
 <br><a href="https://www.utexas.edu">The University of Texas at Austin</a>
 </span>
 <br/><br/>
-<span style="font-size: 16px !important; color: #555;">
+<span style="font-size: 15px !important; color: #555;">
   <b>Office</b> SEA 5.536, 108 E Dean Keeton St, Austin, TX 78712, United States
   <br><b>Email</b> jmoon@utexas.edu
 </span>
 <br/><br/>
-<span style="font-size: 16px !important; color: #555;">
+<span style="font-size: 15px !important; color: #555;">
 You can also find links to my X, LinkedIn, ORCID and Google Scholar at the bottom of this website!
 </span>
 
