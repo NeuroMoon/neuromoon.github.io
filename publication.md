@@ -6,20 +6,20 @@ subtitle:
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-<span style="font-size: 14px; line-height: 0.5; color: #555;">
-<br>* co-first authors
-<br><sup>†</sup> co-corresponding authors
+<span style="font-size: 14px; line-height: 0.15; color: #555;">
+<br>*co-first authors
+<br><sup>†</sup>co-corresponding authors
 </span>
 
 <h2><span style="color: #0055A9;">Journal articles</span></h2>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>Image space opens up for visual neuroscience</b>
   <br>Jongmin Moon, Robbe L. T. Goris
   <br><i>Neuron</i> (2026)&ensp;<a href="https://www.cell.com/neuron/fulltext/S0896-6273(26)00453-8">Link</a> | <a href="/pdfs/Moon_2026_Neuron.pdf">PDF</a>
 </span></p>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>Environmental motion presented ahead of self-motion modulates heading direction estimation</b>
   <br>Liana Nafisa Saftari*, Jongmin Moon*, Oh-Sang Kwon
   <br><i>PLOS Computational Biology</i> (2025)&ensp;<a href="https://doi.org/10.1371/journal.pcbi.1013571">Link</a> | <a href="/pdfs/Moon_2025_PLoSComputBiol.pdf">PDF</a> | <a href="/pdfs/Moon_2025_PLoSComputBiol_Supplementary.pdf">Supplementary</a> | <a href="https://doi.org/10.17605/OSF.IO/RMFE6">Data and Code</a>
@@ -30,7 +30,7 @@ subtitle:
 <span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1013571" data-legend="hover-right" data-style="small_circle" style="display: inline-block; vertical-align: top;"></span>
 </div>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>A key role of orientation in the coding of visual motion direction</b>
   <br>Jongmin Moon, Duje Tadin<sup>†</sup>, Oh-Sang Kwon<sup>†</sup>
   <br><i>Psychonomic Bulletin & Review</i> (2023)&ensp;<a href="https://link.springer.com/article/10.3758/s13423-022-02181-2">Link</a> | <a href="/pdfs/Moon_2023_PBR.pdf">PDF</a> | <a href="/pdfs/Moon_2023_PBR_Supplementary.pdf">Supplementary</a> | <a href="https://osf.io/m6d4z/">Data and Code</a>
@@ -41,7 +41,7 @@ subtitle:
 <span class="__dimensions_badge_embed__" data-doi="10.3758/s13423-022-02181-2" data-legend="hover-right" data-style="small_circle" style="display: inline-block; vertical-align: top;"></span>
 </div>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>Attractive and repulsive effects of sensory history concurrently shape visual perception</b>
   <br>Jongmin Moon, Oh-Sang Kwon
   <br><i>BMC Biology</i> (2022)&ensp;<a href="https://link.springer.com/article/10.1186/s12915-022-01444-7">Link</a> | <a href="/pdfs/Moon_2022_BMCBiol.pdf">PDF</a> | <a href="/pdfs/Moon_2022_BMCBiol_Supplementary.pdf">Supplementary</a> | <a href="https://osf.io/s3cx2/">Data and Code</a>
@@ -54,7 +54,7 @@ subtitle:
 <span class="__dimensions_badge_embed__" data-doi="10.1186/s12915-022-01444-7" data-legend="hover-right" data-style="small_circle" style="display: inline-block; vertical-align: top;"></span>
 </div>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>Temporal dynamics of visual attention allocation</b>
   <br>Jongmin Moon*, Seonggyu Choe*, Seul Lee, Oh-Sang Kwon
   <br><i>Scientific Reports</i> (2019)&ensp;<a href="https://www.nature.com/articles/s41598-019-40281-7">Link</a> | <a href="/pdfs/Moon_2019_SciRep.pdf">PDF</a> | <a href="/pdfs/Moon_2019_SciRep_Supplementary.pdf">Supplementary</a>
@@ -68,25 +68,25 @@ subtitle:
 <br>
 <h2><span style="color: #0055A9;">Conference abstracts</span></h2>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>How history manifests in the macaque cortical hierarchy</b>
   <br>Jongmin Moon, Zoe M. Boundy-Singer, Julie A. Charlton, Robbe L. T. Goris
   <br>Society for Neuroscience (2026)
 </span></p>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>How history manifests in the macaque cortical hierarchy</b>
   <br>Jongmin Moon, Zoe M. Boundy-Singer, Julie A. Charlton, Robbe L. T. Goris
   <br>Vision Sciences Society (2026)
 </span></p>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>Confidence in perceptual estimates reveals that sensory noise is doubly stochastic</b>
   <br>Avinash Ranjan, Jongmin Moon, Robbe L. T. Goris
   <br>Vision Sciences Society (2026)
 </span></p>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>Perceptual confidence seems blind to prior information</b>
   <br>Akash Raj Gunniya Prakash, Jongmin Moon, Robbe L. T. Goris
   <br>Vision Sciences Society (2026)
@@ -98,43 +98,43 @@ subtitle:
   <br>Vision Sciences Society (2025)&ensp;<a href="https://doi.org/10.1167/jov.25.9.2942">Link</a>
 </span></p>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>Probing bidirectional serial dependence in an N-back orientation estimation task</b>
   <br>Jongmin Moon, Hoyeon Yoon, Oh-Sang Kwon
   <br>Vision Sciences Society (2024)&ensp;<a href="https://doi.org/10.1167/jov.24.10.367">Link</a>
 </span></p>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>Environmental motion presented ahead of self-motion modulates the heading direction estimation</b>
   <br>Jongmin Moon, Liana Nafisa Saftari, Oh-Sang Kwon
   <br>Cognitive Computational Neuroscience (2023)&ensp;<a href="https://2023.ccneuro.org/view_paper217e.html?PaperNum=1222">Link</a> | <a href="/pdfs/Moon_2023_CCN.pdf">PDF</a>
 </span></p>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>Synchronicity of visual and vestibular signals modulates the causal inference in heading direction estimation</b>
   <br>Liana Nafisa Saftari, Jongmin Moon, Oh-Sang Kwon
   <br>Vision Sciences Society (2023)&ensp;<a href="https://doi.org/10.1167/jov.23.9.5227">Link</a>
 </span></p>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>Confidence in perceptual estimation reflects behavioral variability, but not biases</b>
   <br>Jongmin Moon, Oh-Sang Kwon
   <br>Vision Sciences Society (2022)&ensp;<a href="https://doi.org/10.1167/jov.22.14.3920">Link</a>
 </span></p>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>Motion perception is biased toward the orientation, not the direction, of the preceding motion</b>
   <br>Jongmin Moon, Oh-Sang Kwon
   <br>Vision Sciences Society (2020)&ensp;<a href="https://doi.org/10.1167/jov.20.11.1762">Link</a>
 </span></p>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>Additivity of attractive and repulsive sequential effects in motion direction estimation</b>
   <br>Jongmin Moon, Oh-Sang Kwon
   <br>Vision Sciences Society (2019)&ensp;<a href="https://doi.org/10.1167/19.10.295a">Link</a>
 </span></p>
 
-<p><span style="font-size: 14px; line-height: 0.5; color: #555;">
+<p><span style="font-size: 14px; line-height: 0.15; color: #555;">
   <b>Temporal dynamics of visual attention allocation</b>
   <br>Seonggyu Choe, Jongmin Moon, Oh-Sang Kwon
   <br>Vision Sciences Society (2018)&ensp;<a href="https://doi.org/10.1167/18.10.1025">Link</a>
