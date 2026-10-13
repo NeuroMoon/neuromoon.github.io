@@ -7,8 +7,8 @@ subtitle:
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <span style="font-size: 14px !important; color: #555;">
-<sup>#</sup> co-first author
-<br>* co-senior author
+<br>* co-first authors
+<sup>†</sup> co-corresponding authors
 </span>
 
 <h2><span style="color: #0055A9;">Journal articles</span></h2>
@@ -21,7 +21,7 @@ subtitle:
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Environmental motion presented ahead of self-motion modulates heading direction estimation</b>
-  <br>Liana Nafisa Saftari<sup>#</sup>, Jongmin Moon<sup>#</sup>, Oh-Sang Kwon
+  <br>Liana Nafisa Saftari*, Jongmin Moon*, Oh-Sang Kwon
   <br><i>PLOS Computational Biology</i> (2025)&ensp;<a href="https://doi.org/10.1371/journal.pcbi.1013571">Link</a> | <a href="/pdfs/Moon_2025_PLoSComputBiol.pdf">PDF</a> | <a href="/pdfs/Moon_2025_PLoSComputBiol_Supplementary.pdf">Supplementary</a> | <a href="https://doi.org/10.17605/OSF.IO/RMFE6">Data and Code</a>
 </span></p>
 
@@ -32,7 +32,7 @@ subtitle:
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>A key role of orientation in the coding of visual motion direction</b>
-  <br>Jongmin Moon, Duje Tadin*, Oh-Sang Kwon*
+  <br>Jongmin Moon, Duje Tadin<sup>†</sup>, Oh-Sang Kwon<sup>†</sup>
   <br><i>Psychonomic Bulletin & Review</i> (2023)&ensp;<a href="https://link.springer.com/article/10.3758/s13423-022-02181-2">Link</a> | <a href="/pdfs/Moon_2023_PBR.pdf">PDF</a> | <a href="/pdfs/Moon_2023_PBR_Supplementary.pdf">Supplementary</a> | <a href="https://osf.io/m6d4z/">Data and Code</a>
 </span></p>
   
@@ -56,7 +56,7 @@ subtitle:
 
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Temporal dynamics of visual attention allocation</b>
-  <br>Jongmin Moon<sup>#</sup>, Seonggyu Choe<sup>#</sup>, Seul Lee, Oh-Sang Kwon
+  <br>Jongmin Moon*, Seonggyu Choe*, Seul Lee, Oh-Sang Kwon
   <br><i>Scientific Reports</i> (2019)&ensp;<a href="https://www.nature.com/articles/s41598-019-40281-7">Link</a> | <a href="/pdfs/Moon_2019_SciRep.pdf">PDF</a> | <a href="/pdfs/Moon_2019_SciRep_Supplementary.pdf">Supplementary</a>
 </span></p>
 
