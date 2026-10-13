@@ -60,7 +60,7 @@ subtitle:
   <br><i>Scientific Reports</i> (2019)&ensp;<a href="https://www.nature.com/articles/s41598-019-40281-7">Link</a> | <a href="/pdfs/Moon_2019_SciRep.pdf">PDF</a> | <a href="/pdfs/Moon_2019_SciRep_Supplementary.pdf">Supplementary</a>
 </p>
 
-<div style="display: inline-block; margin-top: 10px; margin-bottom: 0px;">
+<div style="display: inline-block; margin-top: 10px; margin-bottom: 10px;">
 <div data-badge-type="donut" data-doi="10.1038/s41598-019-40281-7" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block; vertical-align: top;"></div> &nbsp;
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-40281-7" data-legend="hover-right" data-style="small_circle" style="display: inline-block; vertical-align: top;"></span>
 </div>
