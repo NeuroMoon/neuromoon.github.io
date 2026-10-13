@@ -79,7 +79,7 @@ subtitle:
   <br>Vision Sciences Society (2026)
 </p>
 
-<p style="font-size: 14px; line-height: 1.7; margin-top: 14px; margin-bottom: 0px; color: #555;">
+<p style="font-size: 14px; line-height: 1.7; margin-top: 21px; margin-bottom: 0px; color: #555;">
   <b>Confidence in perceptual estimates reveals that sensory noise is doubly stochastic</b>
   <br>Avinash Ranjan, Jongmin Moon, Robbe L. T. Goris
   <br>Vision Sciences Society (2026)
