@@ -107,7 +107,7 @@ subtitle:
 <p><span style="font-size: 15px !important; color: #555;">
   <b>Environmental motion presented ahead of self-motion modulates the heading direction estimation</b>
   <br>Jongmin Moon, Liana Nafisa Saftari, Oh-Sang Kwon
-  <br>Cognitive Computational Neuroscience (2023)&ensp;<a href="https://2023.ccneuro.org/view_paper217e.html?PaperNum=1222">Link</a> | <a href="https://2023.ccneuro.org/proceedings/0000386.pdf?s=W&pn=1222">PDF</a>
+  <br>Cognitive Computational Neuroscience (2023)&ensp;<a href="https://2023.ccneuro.org/view_paper217e.html?PaperNum=1222">Link</a> | <a href="/pdfs/Moon_2023_CCN.pdf">PDF</a>
 </span></p>
 
 <p><span style="font-size: 15px !important; color: #555;">
