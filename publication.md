@@ -8,7 +8,7 @@ subtitle:
 
 <span style="font-size: 14px !important; line-height: 1; color: #555;">
 <br>* co-first authors
-<sup>†</sup> co-corresponding authors
+<br><sup>†</sup> co-corresponding authors
 </span>
 
 <h2><span style="color: #0055A9;">Journal articles</span></h2>
